@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\procesos\\kahoot\\kahootservidor\\kahootservidor\\classes\\clsocketservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\classes\\clsocketservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\classes\\cllogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\classes\\cllogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\classes\\clprocessarprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\classes\\clprocessarprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\classes\\clpregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\classes\\clpregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\kahootservidor\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16E024D-3C02-48AF-BAE8-664A7C969888}|KahootServidor\\KahootServidor.csproj|solutionrelative:kahootservidor\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.Designer.cs",
+              "RelativeToolTip": "KahootServidor\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAlwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:15:14.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.cs",
+              "RelativeToolTip": "KahootServidor\\FrmMain.cs",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAQwPwBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:24:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClPregunta.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClPregunta.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\CLASSES\\ClPregunta.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClPregunta.cs",
+              "RelativeToolTip": "KahootServidor\\CLASSES\\ClPregunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:29:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClSocketServidor.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClSocketServidor.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\CLASSES\\ClSocketServidor.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClSocketServidor.cs",
+              "RelativeToolTip": "KahootServidor\\CLASSES\\ClSocketServidor.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:29:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClProcessarProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClProcessarProtocol.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\CLASSES\\ClProcessarProtocol.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClProcessarProtocol.cs",
+              "RelativeToolTip": "KahootServidor\\CLASSES\\ClProcessarProtocol.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:00:17.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "KahootServidor\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:23:47.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClLoginData.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClLoginData.cs",
+              "RelativeDocumentMoniker": "KahootServidor\\CLASSES\\ClLoginData.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootServidor\\KahootServidor\\CLASSES\\ClLoginData.cs",
+              "RelativeToolTip": "KahootServidor\\CLASSES\\ClLoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:26:33.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

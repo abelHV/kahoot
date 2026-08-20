@@ -1,0 +1,13 @@
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.FrmMain.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.Properties.Resources.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\bin\Debug\KahootJugador.exe.config
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\bin\Debug\KahootJugador.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\bin\Debug\KahootJugador.pdb
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJu.AC41D44D.Up2Date
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootJugador\KahootJugador\obj\Debug\KahootJugador.pdb

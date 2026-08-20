@@ -1,0 +1,20 @@
+[
+  {
+    "Texto": "Què signifiquen les sigles 'HTML'?",
+    "Opciones": ["HyperText Markup Language", "High Tech Modern Language", "Hyperlink Tool Multi Language", "Home Tool Markup Language"],
+    "RespuestaCorrecta": 0,
+    "PuntosMaximos": 100
+  },
+  {
+    "Texto": "Quin llenguatge es fa servir principalment per a l'estil de les webs?",
+    "Opciones": ["Python", "C#", "CSS", "Java"],
+    "RespuestaCorrecta": 2,
+    "PuntosMaximos": 100
+  },
+  {
+    "Texto": "Quin és el component que es considera el 'cervell' d'un ordinador?",
+    "Opciones": ["Memòria RAM", "Disc Dur", "Targeta Gràfica", "CPU"],
+    "RespuestaCorrecta": 3,
+    "PuntosMaximos": 100
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\procesos\\kahoot\\kahootjugador\\kahootjugador\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|solutionrelative:kahootjugador\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\kahootjugador\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|solutionrelative:kahootjugador\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\kahootjugador\\classes\\clsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|solutionrelative:kahootjugador\\classes\\clsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\kahootjugador\\classes\\clpeticioresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|solutionrelative:kahootjugador\\classes\\clpeticioresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\kahootjugador\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B11C998-12D6-4C0C-BB98-A6274EDF5C52}|KahootJugador\\KahootJugador.csproj|solutionrelative:kahootjugador\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClPeticioResposta.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\CLASSES\\ClPeticioResposta.cs",
+              "RelativeDocumentMoniker": "KahootJugador\\CLASSES\\ClPeticioResposta.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\CLASSES\\ClPeticioResposta.cs",
+              "RelativeToolTip": "KahootJugador\\CLASSES\\ClPeticioResposta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:40:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootJugador\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.cs",
+              "RelativeToolTip": "KahootJugador\\FrmMain.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAEwNYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:23:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootJugador\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "KahootJugador\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:07:18.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\CLASSES\\ClSocketClient.cs",
+              "RelativeDocumentMoniker": "KahootJugador\\CLASSES\\ClSocketClient.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\CLASSES\\ClSocketClient.cs",
+              "RelativeToolTip": "KahootJugador\\CLASSES\\ClSocketClient.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:28:42.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "KahootJugador\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\kahoot\\KahootJugador\\KahootJugador\\FrmMain.Designer.cs",
+              "RelativeToolTip": "KahootJugador\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:45:05.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

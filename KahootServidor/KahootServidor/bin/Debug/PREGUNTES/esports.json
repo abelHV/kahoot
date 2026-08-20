@@ -1,0 +1,20 @@
+[
+  {
+    "Texto": "Quants jugadors hi ha en un equip de bàsquet a la pista?",
+    "Opciones": ["11", "5", "7", "6"],
+    "RespuestaCorrecta": 1,
+    "PuntosMaximos": 100
+  },
+  {
+    "Texto": "Cada quants anys se celebren els Jocs Olímpics?",
+    "Opciones": ["2", "3", "4", "5"],
+    "RespuestaCorrecta": 2,
+    "PuntosMaximos": 100
+  },
+  {
+    "Texto": "Quin esport es practica a Wimbledon?",
+    "Opciones": ["Futbol", "Golf", "Rugbi", "Tennis"],
+    "RespuestaCorrecta": 3,
+    "PuntosMaximos": 100
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Texto": "Quin és el riu més llarg del món?",
+    "Opciones": ["Nil", "Amazones", "Mississipí", "Danubi"],
+    "RespuestaCorrecta": 1,
+    "PuntosMaximos": 100
+  },
+  {
+    "Texto": "A quin país es troba la Torre de Pisa?",
+    "Opciones": ["França", "Espanya", "Itàlia", "Grècia"],
+    "RespuestaCorrecta": 2,
+    "PuntosMaximos": 100
+  }
+]

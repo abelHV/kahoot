@@ -1,0 +1,13 @@
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\bin\Debug\KahootServidor.exe.config
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\bin\Debug\KahootServidor.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\bin\Debug\KahootServidor.pdb
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.FrmMain.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.Properties.Resources.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootSe.882F167E.Up2Date
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\kahoot\KahootServidor\KahootServidor\obj\Debug\KahootServidor.pdb
